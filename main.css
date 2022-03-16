@@ -1,0 +1,10 @@
+header, 
+main {
+    background-color: aquamarine;
+    width: 600px;
+    margin-left: calc(50% - 300px);
+}
+
+main {
+    margin-top: 60px;
+}

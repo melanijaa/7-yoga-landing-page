@@ -12,7 +12,7 @@ Design: https://media.discordapp.net/attachments/850245533838868480/916019208788
 
 ## Project features
 
--   Basic HTML
+-  Basic HTML
 - Fixed width container
 - Header: logo + nav
 - png images
