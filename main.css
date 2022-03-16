@@ -1,8 +1,23 @@
-header, 
-main {
+body {
+    background-color: lavender;
+}
+
+header, main {
     background-color: aquamarine;
     width: 600px;
     margin-left: calc(50% - 300px);
+}
+
+img{
+
+}
+
+nav{
+
+}
+
+a{
+
 }
 
 main {
